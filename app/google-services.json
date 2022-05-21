@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "462435910303",
+    "project_id": "notifications-test-17094",
+    "storage_bucket": "notifications-test-17094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462435910303:android:23b242817ebed74e5958aa",
+        "android_client_info": {
+          "package_name": "com.inticomp.mobile.banking.majatama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462435910303-rb23ganns80i8j1ia2kkb9o2rmisnpfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9_v9tmaMkYZoPGfRt-xViCmRtnM5Il4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462435910303-rb23ganns80i8j1ia2kkb9o2rmisnpfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462435910303:android:e2bf91cf33030dbc5958aa",
+        "android_client_info": {
+          "package_name": "com.myassets.mynotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462435910303-rb23ganns80i8j1ia2kkb9o2rmisnpfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9_v9tmaMkYZoPGfRt-xViCmRtnM5Il4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462435910303-rb23ganns80i8j1ia2kkb9o2rmisnpfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462435910303:android:af1c1ce3b0aa28f85958aa",
+        "android_client_info": {
+          "package_name": "com.myassets.notificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462435910303-rb23ganns80i8j1ia2kkb9o2rmisnpfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9_v9tmaMkYZoPGfRt-xViCmRtnM5Il4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462435910303-rb23ganns80i8j1ia2kkb9o2rmisnpfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
